@@ -1,0 +1,19 @@
+{
+  "name"         : "PROJECT API文档",
+  "version"      : "2.0.0",
+  "title"        : "API - PROJECT",
+  "url"          : "http://172.20.105.43:99/api/",
+  "sampleUrl"    : "http://172.20.105.43:99/api/",
+  "header": {
+    "title": "说明",
+    "filename": "apidoc-header.md"
+  },
+  "template"     : {
+    "withCompare"  : true,
+    "withGenerator": true
+  },
+  "order"      : [
+    "otherGroup",
+    "systemindex"
+  ]
+}
